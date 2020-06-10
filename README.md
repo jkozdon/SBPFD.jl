@@ -1,6 +1,8 @@
 SBPFD.jl
 ========
 
+![linux](https://github.com/jkozdon/SBPFD.jl/workflows/linux/badge.svg)
+
 An summation by parts finite difference library built on top of
 [KernelAbstractions.jl].
 
