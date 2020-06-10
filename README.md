@@ -2,6 +2,7 @@ SBPFD.jl
 ========
 
 ![linux](https://github.com/jkozdon/SBPFD.jl/workflows/linux/badge.svg)
+[![Bors enabled](https://bors.tech/images/badge_small.svg)](https://app.bors.tech/repositories/25733)
 
 An summation by parts finite difference library built on top of
 [KernelAbstractions.jl].
